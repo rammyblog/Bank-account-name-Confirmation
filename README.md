@@ -37,10 +37,7 @@ npm run watch
 npm run dev
 ```
 
-````sh
-
-
-4. Visit http://localhost:<PORT>/graphql to login the user you created.
+4. Visit http://localhost:<PORT>/graphql to perform queries and mutations.
 
 ## Run tests
 
@@ -49,7 +46,7 @@ Input your paystack secret key in the jest.config.js file
 
 ```sh
 npm run test
-````
+```
 
 - In 100 words or less, provide an answer to this in your readme: What's a good reason why the pure Levenshtein Distance algorithm might be a more effective solution than the broader Damerau–Levenshtein Distance algorithm in this specific scenario.
 
